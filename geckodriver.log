@@ -1,0 +1,178 @@
+1683136085444	geckodriver	INFO	Listening on 127.0.0.1:52016
+1683136088528	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "52017" "-no-remote" "-profile" "C:\\Users\\Kaustav\\AppData\\Local\\Temp\\rust_mozprofileOS1Kxf"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1683136088941	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1683136088946	Marionette	INFO	Listening on port 52024
+WebDriver BiDi listening on ws://127.0.0.1:52017
+1683136089219	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Kaustav\\AppData\\Local\\Temp\\rust_mozprofileOS1Kxf\\search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+console.error: ({})
+DevTools listening on ws://127.0.0.1:52017/devtools/browser/ecd8f3b2-2aa4-41a3-8e40-b50e82f36ce5
+1683136120100	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1683136169111	geckodriver	INFO	Listening on 127.0.0.1:52093
+1683136172182	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "52094" "-no-remote" "-profile" "C:\\Users\\Kaustav\\AppData\\Local\\Temp\\rust_mozprofileCoLyz4"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1683136172468	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1683136172471	Marionette	INFO	Listening on port 52101
+WebDriver BiDi listening on ws://127.0.0.1:52094
+1683136172767	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Kaustav\\AppData\\Local\\Temp\\rust_mozprofileCoLyz4\\search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+console.error: ({})
+DevTools listening on ws://127.0.0.1:52094/devtools/browser/7227f18f-dc92-4e67-a12f-d8027fcb9f52
+1683136182722	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+[Child 12344, MediaDecoderStateMachine #1] WARNING: Decoder=2271b335100 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:372
+[Child 12344, MediaDecoderStateMachine #1] WARNING: Decoder=2271b335100 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006) - static MP4Metadata::ResultAndByteBuffer __cdecl mozilla::MP4Metadata::Metadata(mozilla::ByteStream *): Cannot parse metadata: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachineBase.cpp:164
+[Child 12344, MediaDecoderStateMachine #1] WARNING: Decoder=2271b332d00 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:372
+[Child 12344, MediaDecoderStateMachine #1] WARNING: Decoder=2271b332d00 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006) - static MP4Metadata::ResultAndByteBuffer __cdecl mozilla::MP4Metadata::Metadata(mozilla::ByteStream *): Cannot parse metadata: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachineBase.cpp:164
+1683136197067	Marionette	INFO	Stopped listening on port 52101
+JavaScript error: https://www.youtube.com/playlist?list=PL3D7BFF1DDBDAAFE5&themeRefresh=1, line 12: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/playlist?list=PL3D7BFF1DDBDAAFE5&themeRefresh=1, line 12: TypeError: can't access dead object
+Dynamically enable window occlusion 1
+JavaScript error: https://www.youtube.com/playlist?list=PL3D7BFF1DDBDAAFE5&themeRefresh=1, line 12: TypeError: can't access dead object
+1683136409344	geckodriver	INFO	Listening on 127.0.0.1:52194
+1683136412408	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "52195" "-no-remote" "-profile" "C:\\Users\\Kaustav\\AppData\\Local\\Temp\\rust_mozprofilebhpblb"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1683136412686	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1683136412690	Marionette	INFO	Listening on port 52202
+WebDriver BiDi listening on ws://127.0.0.1:52195
+1683136412968	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Kaustav\\AppData\\Local\\Temp\\rust_mozprofilebhpblb\\search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+console.error: ({})
+DevTools listening on ws://127.0.0.1:52195/devtools/browser/d6643c43-c5ae-47a5-9012-b908c9f48002
+1683136415499	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1683138652475	geckodriver	INFO	Listening on 127.0.0.1:52861
+1683138655483	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "52862" "-no-remote" "-profile" "C:\\Users\\Kaustav\\AppData\\Local\\Temp\\rust_mozprofilezwFixR"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1683138655786	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1683138655789	Marionette	INFO	Listening on port 52869
+WebDriver BiDi listening on ws://127.0.0.1:52862
+1683138656082	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Kaustav\\AppData\\Local\\Temp\\rust_mozprofilezwFixR\\search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+console.error: ({})
+DevTools listening on ws://127.0.0.1:52862/devtools/browser/9efb4f8c-b104-4c5a-b2ce-611c40b52415
+1683138661837	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1683138667718	Marionette	INFO	Stopped listening on port 52869
+JavaScript error: https://www.youtube.com/playlist?list=PL3D7BFF1DDBDAAFE5&themeRefresh=1, line 12: TypeError: can't access dead object
+JavaScript error: https://www.youtube.com/playlist?list=PL3D7BFF1DDBDAAFE5&themeRefresh=1, line 12: TypeError: can't access dead object
+Dynamically enable window occlusion 1
+JavaScript error: https://www.youtube.com/playlist?list=PL3D7BFF1DDBDAAFE5&themeRefresh=1, line 12: TypeError: can't access dead object
+1683138731940	geckodriver	INFO	Listening on 127.0.0.1:52934
+1683138735015	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "52935" "-no-remote" "-profile" "C:\\Users\\Kaustav\\AppData\\Local\\Temp\\rust_mozprofileacTUIa"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1683138735316	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1683138735320	Marionette	INFO	Listening on port 52942
+WebDriver BiDi listening on ws://127.0.0.1:52935
+1683138735666	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Kaustav\\AppData\\Local\\Temp\\rust_mozprofileacTUIa\\search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+console.error: ({})
+DevTools listening on ws://127.0.0.1:52935/devtools/browser/4d298e0a-716b-4671-bd04-dab1c3d6b10c
+1683138739499	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+[Child 7084, MediaDecoderStateMachine #1] WARNING: Decoder=1e359766500 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:372
+[Child 7084, MediaDecoderStateMachine #1] WARNING: Decoder=1e359766500 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006) - static MP4Metadata::ResultAndByteBuffer __cdecl mozilla::MP4Metadata::Metadata(mozilla::ByteStream *): Cannot parse metadata: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachineBase.cpp:164
+1683138901248	Marionette	INFO	Stopped listening on port 52942
+Dynamically enable window occlusion 1
+JavaScript error: https://www.youtube.com/playlist?list=PL3D7BFF1DDBDAAFE5, line 12: TypeError: can't access dead object
+1683138911913	geckodriver	INFO	Listening on 127.0.0.1:53051
+1683138914983	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53052" "-no-remote" "-profile" "C:\\Users\\Kaustav\\AppData\\Local\\Temp\\rust_mozprofilek66YMm"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1683138915295	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1683138915299	Marionette	INFO	Listening on port 53059
+WebDriver BiDi listening on ws://127.0.0.1:53052
+1683138915641	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Kaustav\\AppData\\Local\\Temp\\rust_mozprofilek66YMm\\search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:53052/devtools/browser/94f091a2-c4d1-48a8-8352-2a468b2da611
+1683138929322	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+[Child 20424, MediaDecoderStateMachine #1] WARNING: Decoder=212f11eb600 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:372
+[Child 20424, MediaDecoderStateMachine #1] WARNING: Decoder=212f11eb600 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006) - static MP4Metadata::ResultAndByteBuffer __cdecl mozilla::MP4Metadata::Metadata(mozilla::ByteStream *): Cannot parse metadata: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachineBase.cpp:164
+1683139784410	Marionette	INFO	Stopped listening on port 53059
+Dynamically enable window occlusion 1
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1683139791032	geckodriver	INFO	Listening on 127.0.0.1:53371
+1683139794104	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53372" "-no-remote" "-profile" "C:\\Users\\Kaustav\\AppData\\Local\\Temp\\rust_mozprofileI2nNCE"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1683139794376	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1683139794380	Marionette	INFO	Listening on port 53379
+WebDriver BiDi listening on ws://127.0.0.1:53372
+1683139794704	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Kaustav\\AppData\\Local\\Temp\\rust_mozprofileI2nNCE\\search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:53372/devtools/browser/74117780-2d01-44f2-8d7f-628875e86960
+1683139801342	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1683139810294	Marionette	INFO	Stopped listening on port 53379
+Dynamically enable window occlusion 1
+1683140316229	geckodriver	INFO	Listening on 127.0.0.1:53562
+1683140319298	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "53563" "-no-remote" "-profile" "C:\\Users\\Kaustav\\AppData\\Local\\Temp\\rust_mozprofileW02nNT"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1683140319567	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1683140319570	Marionette	INFO	Listening on port 53570
+WebDriver BiDi listening on ws://127.0.0.1:53563
+1683140319868	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Kaustav\\AppData\\Local\\Temp\\rust_mozprofileW02nNT\\search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+console.error: ({})
+DevTools listening on ws://127.0.0.1:53563/devtools/browser/62116210-99d8-4a93-948a-210b2888d0aa
+1683140330330	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+[Child 10220, MediaDecoderStateMachine #1] WARNING: Decoder=207679c0d00 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:372
+[Child 10220, MediaDecoderStateMachine #1] WARNING: Decoder=207679c0d00 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006) - static MP4Metadata::ResultAndByteBuffer __cdecl mozilla::MP4Metadata::Metadata(mozilla::ByteStream *): Cannot parse metadata: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachineBase.cpp:164
+1683140347206	Marionette	INFO	Stopped listening on port 53570
+Dynamically enable window occlusion 1
+JavaScript error: https://www.youtube.com/playlist?list=PL3D7BFF1DDBDAAFE5&themeRefresh=1, line 13: TypeError: can't access dead object
+1683142071032	geckodriver	INFO	Listening on 127.0.0.1:54182
+1683142074113	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "54183" "-no-remote" "-profile" "C:\\Users\\Kaustav\\AppData\\Local\\Temp\\rust_mozprofileprn8Mg"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1683142074451	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1683142074455	Marionette	INFO	Listening on port 54190
+WebDriver BiDi listening on ws://127.0.0.1:54183
+1683142074768	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Kaustav\\AppData\\Local\\Temp\\rust_mozprofileprn8Mg\\search.json.mozlz4", (void 0)))
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+console.error: ({})
+DevTools listening on ws://127.0.0.1:54183/devtools/browser/fcaac409-f407-4bb8-b8bb-987c66ea6d5b
+1683142080199	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+[Child 10468, MediaDecoderStateMachine #1] WARNING: Decoder=28a4db66500 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:372
+[Child 10468, MediaDecoderStateMachine #1] WARNING: Decoder=28a4db66500 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006) - static MP4Metadata::ResultAndByteBuffer __cdecl mozilla::MP4Metadata::Metadata(mozilla::ByteStream *): Cannot parse metadata: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachineBase.cpp:164
+[Child 10468, MediaDecoderStateMachine #1] WARNING: Decoder=28a4db91600 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:372
+[Child 10468, MediaDecoderStateMachine #1] WARNING: Decoder=28a4db91600 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006) - static MP4Metadata::ResultAndByteBuffer __cdecl mozilla::MP4Metadata::Metadata(mozilla::ByteStream *): Cannot parse metadata: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachineBase.cpp:164
+[Child 10468, MediaDecoderStateMachine #1] WARNING: Decoder=28a4db66800 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:372
+[Child 10468, MediaDecoderStateMachine #1] WARNING: Decoder=28a4db66800 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006) - static MP4Metadata::ResultAndByteBuffer __cdecl mozilla::MP4Metadata::Metadata(mozilla::ByteStream *): Cannot parse metadata: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachineBase.cpp:164
+1683142097497	Marionette	INFO	Stopped listening on port 54190
+Dynamically enable window occlusion 1
+JavaScript error: https://www.youtube.com/playlist?list=PL3D7BFF1DDBDAAFE5&themeRefresh=1, line 12: TypeError: can't access dead object

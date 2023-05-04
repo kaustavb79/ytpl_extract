@@ -1,0 +1,9 @@
+{
+	"host": "https://localhost:9200",
+	"basic_auth": {
+		"user": "elastic",
+		"pass": "gvB5x7niScwqMXB9y*zT"
+	},
+	"ca_certs": "D:\\\\Installs\\\\elasticsearch-8.6.1\\\\config\\\\certs\\\\http_ca.crt",
+	"index": "yt_pl_v1"
+}
